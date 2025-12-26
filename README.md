@@ -6,9 +6,7 @@ Kullanıcıların seçtikleri şehirlerin güncel hava durumu bilgilerini görü
 ![WeatherApp-GoogleChrome2025-10-2422-11-53-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e74d38e6-cb46-42f0-baef-bb60f91fa6fb)
 
 
-🔗 Live Demo:
 
-👉https://mymeteo-app.netlify.app
 
 ## ✨ Özellikler  
 
