@@ -1,4 +1,4 @@
-const API_KEY = "";
+const API_KEY = "YOUR_API_KEY";
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 // Şehir durumuna göre veri al
